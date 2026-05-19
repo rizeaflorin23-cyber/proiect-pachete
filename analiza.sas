@@ -27,7 +27,7 @@ OPTIONS NODATE NONUMBER PAGESIZE=60 LINESIZE=120;
    ================================================================ */
 
 PROC IMPORT
-    DATAFILE="Bucharest_HousePriceDataset.csv"
+    DATAFILE="/home/u64504351/Proiect/Bucharest_HousePriceDataset.csv"
     OUT=WORK.imobiliare
     DBMS=CSV
     REPLACE;
