@@ -6,8 +6,8 @@ Acest proiect reprezintă o analiză a pieței imobiliare, realizată ca cerinț
 
 - `app.py` - Codul sursă pentru aplicația web Streamlit (Python).
 - `analiza.sas` - Scriptul pentru curățarea, formatarea și analiza datelor în SAS.
-- `imobiliare.csv` - Setul de date brut conținând informații despre proprietăți (preț, suprafață, nr. camere, locație etc.).
-- `Documentatie_Proiect.pdf` - Documentația oficială a proiectului, incluzând definirea problemelor, metodele de calcul și interpretarea economică a rezultatelor.
+- `Bucharest_HousePriceDataset.csv` - Setul de date brut conținând informații despre proprietăți (preț, suprafață, nr. camere, locație etc.).
+- `Documentatie_Proiect_Imobiliar.docx` - Documentația oficială a proiectului, incluzând definirea problemelor, metodele de calcul și interpretarea economică a rezultatelor.
 
 ##  Componenta Python (Aplicația Streamlit)
 
